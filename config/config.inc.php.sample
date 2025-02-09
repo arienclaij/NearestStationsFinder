@@ -1,0 +1,8 @@
+<?php
+$settings = [];
+
+$settings['source'] = "NS-API"; // NS-API or GoTrain
+
+$settings['GoTrain_API'] = "https://test.gotrain.local"; // only used with GoTrain as source. Not yet implemented
+$settings['NS_APIkey'] = "XXXXX;
+?>
